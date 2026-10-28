@@ -1,2 +1,3 @@
  hello rebase
  hello local
+I am starting with a new commit
